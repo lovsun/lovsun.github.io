@@ -4,7 +4,7 @@ title: TimeSeries
 slug: TimeSeries
 menu: true
 submenu: true
-order: 5
+order: 4
 description: >
-  시계열인공지능프로젝트
+  통계적 기법부터 딥러닝까지 시계열데이터분석 모음 공간입니다.
 ---

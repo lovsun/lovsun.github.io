@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Machine Learning
-slug: machine learning
+slug: Machine Learning
 category: TimeSeries
 menu: false
 order: 2

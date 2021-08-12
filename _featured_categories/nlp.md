@@ -4,7 +4,7 @@ title: NLP
 slug: NLP
 menu: true
 submenu: true
-order: 4
+order: 3
 description: >
-  자연어인공지능프로젝트 
+  통계적 기법부터 딥러닝까지 자연어데이터분석 모음 공간입니다.
 ---

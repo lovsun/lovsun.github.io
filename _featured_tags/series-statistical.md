@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Statistical Method
-slug: statistical method
+slug: Statistical Method
 category: TimeSeries
 menu: false
 order: 1

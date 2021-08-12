@@ -4,7 +4,7 @@ title: etc
 slug: etc
 menu: true
 submenu: false
-order: 7
+order: 6
 description: >
-  그외
+  잡다한 지식 모음 공간입니다.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Data Preprocessing
-slug: data preprocessing
+slug: Data Preprocessing
 category: NLP
 menu: false
 order: 1
