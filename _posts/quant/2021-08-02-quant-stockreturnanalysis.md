@@ -201,7 +201,7 @@ norm.plot(figsize=(12, 4))
 
 
     
-![png](output_8_1.png)
+![output_8_1](https://user-images.githubusercontent.com/68403764/129559809-3f0ff02b-7ec6-4d6e-b98c-5b6a2d50512e.png)
     
 
 
@@ -462,6 +462,5 @@ plt.show()
 
 
     
-![png](output_20_0.png)
-    
+![output_20_0](https://user-images.githubusercontent.com/68403764/129559813-1747b909-575e-4aea-9259-71c8c5f9d523.png)  
 
