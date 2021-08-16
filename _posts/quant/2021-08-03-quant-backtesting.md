@@ -1005,13 +1005,8 @@ sns.heatmap(corr, annot=True, cmap = 'RdYlBu_r', fmt='.1g')
 
 
 
-    <AxesSubplot:>
-
-
-
-
     
-![png](output_15_1.png)
+![output_15_1](https://user-images.githubusercontent.com/68403764/129559819-a0dabccd-09da-4520-9682-9a74f14fa50b.png)
     
 
 
@@ -1308,7 +1303,8 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![output_27_0](https://user-images.githubusercontent.com/68403764/129559829-7d96f3d2-5f32-49c4-8c2b-2f6acf9fcb82.png)
+
     
 
 
