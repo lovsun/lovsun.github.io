@@ -5,7 +5,7 @@ categories : quant
 comments: true
 ---
 
-__주식 수익률 분석하는 방법__에 대해 알아보겠습니다. 
+**주식 수익률 분석하는 방법** 에 대해 알아보겠습니다. 
 
 yfinance 라이브러리를 이용하여 주가데이터를 가져와서 주식수익률을 분석하여 시각화까지 해보겠습니다
 
@@ -191,13 +191,6 @@ df_monthly = df_monthly[df_monthly.index >= '2013-01-01']
 norm = df_monthly.div(df_monthly.iloc[0, :]).mul(100)
 norm.plot(figsize=(12, 4))
 ```
-
-
-
-
-    <AxesSubplot:xlabel='Date'>
-
-
 
 
     
