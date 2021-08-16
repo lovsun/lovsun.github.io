@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "[데이터수집] 주식시장"
+categories: Quant
+comments: true
+published: true
+---
+
 # [데이터수집] 주식시장
 이전 게시글에서 경제지표 데이터를 가져오기 위해 제가 자주 사용하는 사이트를 소개해드렸습니다. 
 
