@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "[데이터수집] 주식시장"
-categories: Quant
-comments: true
-published: true
+permalink: /categories/Quant/
+comments: tru
 ---
 
 # [데이터수집] 주식시장
