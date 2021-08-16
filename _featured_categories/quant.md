@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Quant
-slug: Quant
+slug: quant
 menu: true
 submenu: false
 order: 5

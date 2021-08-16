@@ -1,8 +1,0 @@
----
-layout: post
-title:  "[GithubPages] 01.하루만에 깃허브 블로그 만들기"
-categories: TimeSeries
-tags: Statistical Method
-comments: true
-published: false
----

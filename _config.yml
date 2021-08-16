@@ -142,3 +142,5 @@ tipue_search:
          files: [search.html, index.html, tags.html]
          categories: []
          tags: []
+
+category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
