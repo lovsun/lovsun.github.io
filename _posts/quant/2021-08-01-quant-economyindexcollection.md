@@ -124,7 +124,7 @@ fig.update_layout(title_text="T10Y_3M(18M)  (%, Daily)",
 
 fig.show()
 ```
-
+![Economy_01](https://user-images.githubusercontent.com/68403764/129559777-6a3975c0-4207-4401-9f98-e17ac57c4415.PNG)
 
 ## Quandl
 [Quandl](https://www.quandl.com/) 사이트도 API키를 발급받으면 손쉽게 경제지표를 가져올 수 있습니다. 제가 해당사이트를 알게 된 것은 ISM PMI지표를 FRED사이트에서는 제공해주지 않아서 찾다가 발견한 사이트입니다. 그럼 PMI지표를 이용하여 어떻게 활용할 수 있는지 알려드리겠습니다.
@@ -247,7 +247,7 @@ fig.update_layout(title_text="PMI, US_CLI (index, Monthly)",
 
 fig.show()
 ```
-
+![Economy_02](https://user-images.githubusercontent.com/68403764/129559794-dc702339-6f15-4631-abc0-8fb691ff9089.PNG)
 
 ### DBNOMICS
 [DBNOMICS](https://db.nomics.world) 사이트는 경제지표 데이터베이스로, 간단하게 경제지표를 검색해서 Download 버튼을 눌러 json형식 데이터를 받아올 수 있는 링크를 얻을 수 있습니다. 
