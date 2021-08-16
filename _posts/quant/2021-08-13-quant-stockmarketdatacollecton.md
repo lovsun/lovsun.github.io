@@ -398,7 +398,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![output_12_0](https://user-images.githubusercontent.com/68403764/129550765-f6b9da04-478b-4311-9f65-3374f931d9ea.png)
     
 
 
@@ -923,7 +923,7 @@ stockanalysis('AAPL')
 
 
     
-![png](output_22_0.png)
+![output_22_0](https://user-images.githubusercontent.com/68403764/129550757-e7452580-8f75-45e0-881b-5cf03bfbcdf2.png)
     
 
 
