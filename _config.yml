@@ -20,8 +20,8 @@ tagline:             "꿈많은 Jenny 기록공간"
 description:         >
   →→ 데이터로 보는 세상 ←←
   경제, 금융 분야에서
-  데이터사이언티스트, AI 전문가가 되기 위한 
-  발자취를 남기는 공간입니다.
+  데이터사이언티스트, AI 전문가가 되기 위해 
+  공부하고 작성했던 코드를 남기는 공간입니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:

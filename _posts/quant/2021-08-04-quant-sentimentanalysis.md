@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[데이터분석] 종목뉴스데이터 감정분석"
+title:  "[데이터분석] 종목뉴스데이터를 수집하여 감성 분석"
 categories : quant
 comments: true
 ---

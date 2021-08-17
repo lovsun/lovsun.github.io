@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[데이터수집] 주식시장"
+title:  "[데이터수집] 주식시장 데이터수집 (야후파이낸스, FinancialModelingApp, Fmp Cloud)"
 categories : quant
 comments: true
 ---
@@ -8,7 +8,7 @@ comments: true
 이전 게시글에서 경제지표 데이터를 가져오기 위해 제가 자주 사용하는 사이트를 소개해드렸습니다. 
 
 이번에는 주식, ETF 관련 데이터 즉 주식시장에 대한 데이터를 가져오기 위해 제가 자주 사용하는 사이트를 소개해드리겠습니다. 
-아래의 사이트 외에도 [EDO HISTORICAL DATA](https://eodhistoricaldata.com/), [FXCM](https://www.fxcm.com/uk/forex-trading-demo/) 등 더 다양한 사이트가 있지만 시행착오를 겪으며 가장 편리하게 이용하고 있는 사이트 위주로 설명드리겠습니다.
+아래의 사이트 외에도 [EDO HISTORICAL DATA](https://eodhistoricaldata.com/), [FXCM](https://www.fxcm.com/uk/forex-trading-demo/) 등 더 다양한 사이트가 있지만 시행착오를 겪으며 가장 편리하게 이용하고 있는 사이트 위주로 설명드리겠습니다. 참고로 DART OPEN API 내용은 따로 다루도록 하겠습니다.
 
 # yahoo finance
 주가 데이터를 가져오고 싶은데 파이썬에 익숙하지 않은 분들에게 제가 가장 강력하게 추천하는 방식입니다. 많은 web data source중에서 야휴파이낸스는 __api key인증을 받을 필요가 없으며 무료__ 입니다. 그래서 초보자도 쉽게 데이터를 요청할 수 있습니다.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[데이터분석] 주가 및 수익률 분석"
+title:  "[데이터분석] 파이썬을 활용한 주가 및 수익률 분석방법"
 categories : quant
 comments: true
 ---

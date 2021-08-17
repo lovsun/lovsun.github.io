@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[데이터분석] 백테스팅 (정률투자법)"
+title:  "[데이터분석] 종목을 활용한 백테스팅 방법 (정률투자법)"
 categories : quant
 comments: true
 ---
