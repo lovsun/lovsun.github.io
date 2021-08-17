@@ -54,7 +54,7 @@ disqus: True
 disqus_shortname:    xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2021.08. by Jenny'
+copyright:           '&copy; 2021.08. by Jenny [무단 전재 및 재배포 금지]'
 
 # Format of the permalinks
 permalink:           
