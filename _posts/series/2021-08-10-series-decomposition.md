@@ -309,12 +309,6 @@ decomposition.plot()
 
 
 
-
-![output_14_1](https://user-images.githubusercontent.com/68403764/130751682-dc0bf78f-8b5e-4a12-902f-a10d10fce157.png)
-    
-
-
-
 ```python
 # 계절성 확인을 위한 plot
 decomposition.seasonal.plot(figsize=(12, 8))
@@ -447,11 +441,6 @@ month_plot(rawdata) #겨울철 난방용 경유수요가 증가한 이유때문�
 ![output_19_0](https://user-images.githubusercontent.com/68403764/130751684-fc57c287-762b-4624-bf5a-f940fa0c9edd.png)
     
 
-
-
-
-    
-![output_19_1](https://user-images.githubusercontent.com/68403764/130751686-c416ae35-dec4-4408-a98f-90a24961b5ed.png)
     
 
 
@@ -468,10 +457,6 @@ quarter_plot(rawdata['diesel'].resample(rule='Q').mean())
 
 
 
-
-
-![output_20_1](https://user-images.githubusercontent.com/68403764/130751693-8519272b-90ec-4a35-9d20-b67cee2d78a8.png)
-    
 
 
 # 2. Simple Moving Average(SMA)
