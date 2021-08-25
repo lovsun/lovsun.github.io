@@ -279,7 +279,7 @@ plot_pacf(data['Money'], lags=30);
 
 
     
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/68403764/130808261-b29ecbf4-1d51-4f53-a8dc-840aebebce4b.png)
     
 
 
@@ -290,8 +290,7 @@ plot_pacf(data['Spending'], lags=30);
 
 
     
-![png](output_9_0.png)
-    
+![output_9_0](https://user-images.githubusercontent.com/68403764/130808265-f4ada46b-4c5a-4231-8b52-4babd239ef37.png)
 
 
 pacf 도표를 참고하여 시차를 3으로 정해주겠습니다. 
@@ -853,7 +852,7 @@ plt.plot(history.history['loss'])
 
 
     
-![png](output_37_1.png)
+![output_37_1](https://user-images.githubusercontent.com/68403764/130808268-8338784e-5277-4d4c-affa-096ee1aab308.png)
     
 
 
@@ -1054,8 +1053,8 @@ plt.legend()
 
 
 
-    
-![png](output_52_1.png)
+
+![output_52_1](https://user-images.githubusercontent.com/68403764/130808270-7eaf4101-f6a9-4109-bc92-9fed7b334004.png)
     
 
 
@@ -1075,7 +1074,8 @@ plt.legend()
 
 
     
-![png](output_53_1.png)
+![output_53_1](https://user-images.githubusercontent.com/68403764/130808272-0e45d0a8-32a4-4935-a5d6-6a9832f0f8e4.png)
+
     
 
 
