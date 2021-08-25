@@ -236,7 +236,7 @@ rawdata.plot(x='ds', y='y')
 
 
     
-![png](prophet_files/prophet_9_1.png)
+![prophet_9_1](https://user-images.githubusercontent.com/68403764/130752294-c5bcc228-a15e-49f8-a48e-ec546d85e9b6.png)
     
 
 
@@ -871,7 +871,7 @@ plt.xlim(test['ds'].iloc[0], test['ds'].iloc[-1])
 
 
     
-![png](prophet_files/prophet_24_1.png)
+![prophet_24_1](https://user-images.githubusercontent.com/68403764/130752295-7fb96a2b-6bce-44b9-afea-2501ec7cc916.png)
     
 
 
@@ -883,7 +883,7 @@ m.plot_components(predictions);
 
 
     
-![png](prophet_files/prophet_25_0.png)
+![prophet_25_0](https://user-images.githubusercontent.com/68403764/130752281-19293a82-0e9a-43a3-abe2-d702288ae5d8.png)
     
 
 
@@ -899,7 +899,7 @@ a = add_changepoints_to_plot(fig.gca(), m, predictions) #fig의 get current axis
 
 
     
-![png](prophet_files/prophet_27_0.png)
+![prophet_27_0](https://user-images.githubusercontent.com/68403764/130752285-d43810a5-5afd-4775-8158-efb922cb9d78.png)
     
 
 
@@ -1031,7 +1031,7 @@ predictions.plot(x='ds', y='yhat', figsize=(12,8))
 
 
     
-![png](prophet_files/prophet_31_1.png)
+![prophet_31_1](https://user-images.githubusercontent.com/68403764/130752289-080c4dcf-1117-4820-aaff-feac247a5fa9.png)
     
 
 
@@ -1050,7 +1050,7 @@ test.plot(x='ds', y='y', label='actual value', legend=True, ax=ax, xlim=(test['d
 
 
     
-![png](prophet_files/prophet_32_1.png)
+![prophet_32_1](https://user-images.githubusercontent.com/68403764/130752291-e048006b-81b4-457a-b8ca-9a2f9c88c0ae.png)
     
 
 
@@ -1374,8 +1374,7 @@ plot_cross_validation_metric(result_cv, metric='rmse');
 ```
 
 
-    
-![png](prophet_files/prophet_45_0.png)
+![prophet_45_0](https://user-images.githubusercontent.com/68403764/130752293-b5641df0-9c8d-41d5-863f-a3a2580d9045.png)
     
 
 
