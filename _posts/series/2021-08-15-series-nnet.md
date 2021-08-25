@@ -120,8 +120,7 @@ rawdata.plot(figsize=(12, 8))
 
 
 
-    
-![png](output_5_1.png)
+![output_5_1](https://user-images.githubusercontent.com/68403764/130808030-271f264d-05e8-4881-bcf4-6c015b43507a.png)
     
 
 
@@ -138,7 +137,7 @@ plot_pacf(rawdata, lags=30);
 
 
     
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/68403764/130808036-3c7ee0d9-9a8e-4902-b86a-87cde8e433b6.png)
     
 
 
@@ -159,7 +158,7 @@ decomposition.plot();
 
 
     
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/68403764/130808039-32a4df95-246b-40e3-90f9-6c0536a6f8d4.png)
     
 
 
@@ -363,8 +362,7 @@ actual.plot(figsize=(12,8))
 
 
     
-![png](output_25_1.png)
-    
+![output_25_1](https://user-images.githubusercontent.com/68403764/130808042-ed0c5ee1-9c71-48cc-9684-7f9740c6b218.png)
 
 
 ### RMSE
