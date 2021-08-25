@@ -432,7 +432,8 @@ plt.plot(history.history['loss'])
 
 
     
-![png](output_30_1.png)
+
+![output_30_1](https://user-images.githubusercontent.com/68403764/130808492-4d71024c-bf35-43cc-85ff-7bc6c12aa524.png)
     
 
 
@@ -520,8 +521,8 @@ test.plot()
 
 
 
-    
-![png](output_39_1.png)
+![output_39_1](https://user-images.githubusercontent.com/68403764/130808499-ef3416c7-e209-4520-b8fe-045f3fcff171.png)
+
     
 
 
