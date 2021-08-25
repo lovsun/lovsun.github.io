@@ -148,7 +148,7 @@ rawdata.plot(figsize=(12, 8)) # 추세가 관측되어 적어도 정상성을 �
 
 
     
-![png](output_7_1.png)
+![output_7_1](https://user-images.githubusercontent.com/68403764/130751313-badfca0c-42ca-42e7-a1a8-22ab08939097.png)
     
 
 
@@ -261,7 +261,7 @@ plot_acf(rawdata, lags=40);
 
 
     
-![png](output_15_0.png)
+![output_15_0](https://user-images.githubusercontent.com/68403764/130751315-cfd00eda-73b4-410e-8959-b116018b65ec.png)
     
 
 
@@ -368,7 +368,7 @@ plot_acf(rawdata['diff_1'].dropna(), lags=40, title='Autocorrelation');
 
 
     
-![png](output_23_0.png)
+![output_23_0](https://user-images.githubusercontent.com/68403764/130751317-8f7d7cee-cba6-4ffb-bd3d-323c6deb6f4d.png)
     
 
 
@@ -381,7 +381,7 @@ plot_pacf(rawdata['diff_1'].dropna(), lags=40, title='Partial Autocorrelation');
 
 
     
-![png](output_24_0.png)
+![output_24_0](https://user-images.githubusercontent.com/68403764/130751319-3edfbd88-162a-42ea-aa47-d48609ac43db.png)
     
 
 
@@ -901,7 +901,7 @@ predictions.plot(legend=True)
 
 
     
-![png](output_50_1.png)
+![output_50_1](https://user-images.githubusercontent.com/68403764/130751325-6b734223-f0d9-4bd0-a8e2-14ca4fe26922.png)
     
 
 
@@ -946,7 +946,7 @@ pylab.show()
 
 
     
-![png](output_54_0.png)
+![output_54_0](https://user-images.githubusercontent.com/68403764/130751326-f19d135d-a7d9-4852-aeda-0001bd02e820.png)
     
 
 
@@ -978,7 +978,7 @@ forecast.plot(legend=True)
 
 
     
-![png](output_56_1.png)
+![output_56_1](https://user-images.githubusercontent.com/68403764/130751328-8d197676-bda1-4e6f-bd31-0c61a08012fa.png)
     
 
 
