@@ -294,7 +294,7 @@ data.plot(figsize=(12,8))
 
 
     
-![png](output_15_1.png)
+![output_15_1](https://user-images.githubusercontent.com/68403764/130752050-a15bded5-5914-44ad-8a73-6f46ea88465f.png)
     
 
 
@@ -822,8 +822,7 @@ predictions['Money_Prediction'].plot(legend=True)
 
 
 
-    
-![png](output_47_1.png)
+![output_47_1](https://user-images.githubusercontent.com/68403764/130752058-107c99aa-c645-4910-9906-c10b0439d0e8.png)
     
 
 
@@ -844,7 +843,7 @@ predictions['Spending_Prediction'].plot(legend=True)
 
 
     
-![png](output_49_1.png)
+![output_49_1](https://user-images.githubusercontent.com/68403764/130752059-edd0e391-d176-4a82-ad03-69e7dba63ec0.png)
     
 
 
