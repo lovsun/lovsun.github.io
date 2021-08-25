@@ -228,8 +228,7 @@ rawdata.plot(figsize=(12, 8))
 
 
 
-    
-![png](output_9_1.png)
+![output_9_1](https://user-images.githubusercontent.com/68403764/130751676-7f8a71cf-6819-4567-92b2-33191f3485a5.png)
     
 
 
@@ -305,14 +304,13 @@ decomposition.plot()
 
 
     
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/68403764/130751678-12782bfe-e00d-4eb7-90cb-165cc93cb8da.png)
     
 
 
 
 
-    
-![png](output_14_1.png)
+![output_14_1](https://user-images.githubusercontent.com/68403764/130751682-dc0bf78f-8b5e-4a12-902f-a10d10fce157.png)
     
 
 
@@ -331,7 +329,7 @@ decomposition.seasonal.plot(figsize=(12, 8))
 
 
     
-![png](output_15_1.png)
+![output_15_1](https://user-images.githubusercontent.com/68403764/130751683-d28fb9ae-7a92-4cdd-b749-f191ec2e6616.png)
     
 
 
@@ -446,14 +444,14 @@ month_plot(rawdata) #겨울철 난방용 경유수요가 증가한 이유때문�
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/68403764/130751684-fc57c287-762b-4624-bf5a-f940fa0c9edd.png)
     
 
 
 
 
     
-![png](output_19_1.png)
+![output_19_1](https://user-images.githubusercontent.com/68403764/130751686-c416ae35-dec4-4408-a98f-90a24961b5ed.png)
     
 
 
@@ -466,14 +464,13 @@ quarter_plot(rawdata['diesel'].resample(rule='Q').mean())
 
 
     
-![png](output_20_0.png)
-    
+![output_20_0](https://user-images.githubusercontent.com/68403764/130751689-8b88f964-406c-4dd4-838c-5c9b1c71fda0.png)
 
 
 
 
-    
-![png](output_20_1.png)
+
+![output_20_1](https://user-images.githubusercontent.com/68403764/130751693-8519272b-90ec-4a35-9d20-b67cee2d78a8.png)
     
 
 
@@ -599,7 +596,7 @@ data.plot(figsize=(12,8))
 
 
     
-![png](output_24_1.png)
+![output_24_1](https://user-images.githubusercontent.com/68403764/130751695-7290f24b-afee-4c3a-b6dc-9ac5269db94a.png)
     
 
 
@@ -655,7 +652,7 @@ data.iloc[-48:].plot(figsize=(12,8));
 
 
     
-![png](output_27_0.png)
+![output_27_0](https://user-images.githubusercontent.com/68403764/130751697-25a463de-9f61-4f37-8c69-e3d68a56e437.png)
     
 
 
@@ -782,7 +779,7 @@ data[['diesel', 'SES', 'DES']].iloc[-48:].plot(figsize=(12,8));
 
 
     
-![png](output_31_0.png)
+![output_31_0](https://user-images.githubusercontent.com/68403764/130751699-d5f463fc-94bb-4ef0-a2d7-4d4df2ee1616.png)
     
 
 
@@ -921,7 +918,7 @@ data[['diesel', 'SES', 'DES', 'TES']].iloc[-48:].plot(figsize=(12,8));
 
 
     
-![png](output_35_0.png)
+![output_35_0](https://user-images.githubusercontent.com/68403764/130751701-186ce4b9-c254-4ca7-873d-2558e2982186.png)
     
 
 
