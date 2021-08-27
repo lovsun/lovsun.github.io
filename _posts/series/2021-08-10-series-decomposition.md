@@ -5,7 +5,7 @@ categories: timeseries
 comments: true
 ---
 
-# 데이터종류
+### 데이터종류
 시계열데이터에 대해 알아보기에 앞서, 데이터의 종류부터 살펴보겠습니다.
 - **횡단면데이터(Cross Sectional data)** : 고정된 시점, 다양한 속성에 대한 데이터 (예, 오늘 수집된 S&P600 종목들의 일별종가와 EPS 데이터)
 - **시계열데이터(Time Series data)** : 일정기간(multiple time intervals), 단일개체(single individual)에 대한 데이터( 예, 10년동안 수집된 삼성전자의 종가 데이터)

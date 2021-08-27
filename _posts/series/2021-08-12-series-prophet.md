@@ -4,7 +4,7 @@ title:  "[일변량통계] 페이스북 Prophet 예측 라이브러리"
 categories: timeseries
 comments: true
 ---
-# Facebook's Prophet Forecasting Library
+### Facebook's Prophet Forecasting Library
 앞서서 시계열 예측방법론으로 **ARIMA 모델**에 대해 살펴보았습니다. 하지만 ARIMA 모델의 경우, **차분, 자기상관, 모형에 대한 가정 등 여러 이론에 대해 알아야한다는 단점**이 있습니다. 이를 위해 **시계열데이터 이론에 대해 잘모르더라도 사용할 수 있는 페이스북 Prophet 라이브러리**를 소개하겠습니다. 
 
 페이스북이 소스코드까진 자세히 공개하지 않아 내부적으로 어떻게 작동하는지 확실히는 알 수 없지만, [Prophet Documentation](https://facebook.github.io/prophet/docs/quick_start.html)에 사용법이 자세히 나와있습니다.

@@ -4,7 +4,7 @@ title:  "[일변량통계] Stationarity(정상성) 검증 및 SARIMA를 통한 �
 categories: timeseries
 comments: true
 ---
-## ARIMA 모델의 가정 : 정상성(Stationarity)
+### ARIMA 모델의 가정 : 정상성(Stationarity)
 ARIMA 예측모델은 **시계열 데이터의 정상성(stationarity)**를 가정합니다. 
 
 아래 정상성에 대한 설명을 보면 알 수 있듯이 정상시계열은 **일정한 평균과 분산**을 가져서 분석하기 쉬우며, 장기적으로 예측가능한 패턴을 갖지 않습니다.

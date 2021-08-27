@@ -4,7 +4,7 @@ title:  "[일변량딥러닝] RNN, LSTM 신경망을 이용한 시계열 예측"
 categories: timeseries
 comments: true
 ---
-# 순환신경망(RNN, LSTM)을 활용한 시계열데이터 예측
+### 순환신경망(RNN, LSTM)을 활용한 시계열데이터 예측
 이번 글에서는 **순환신경망을 활용하여 일변량 시계열데이터를 예측**해보겠습니다. 
 
 ### RNN

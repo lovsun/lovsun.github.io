@@ -4,7 +4,7 @@ title:  "[일변량딥러닝] nnet-ts 신경망을 이용한 시계열 예측"
 categories: timeseries
 comments: true
 ---
-# 딥러닝(nnet-ts)을 활용한 일변량 시계열 예측
+### 딥러닝(nnet-ts)을 활용한 일변량 시계열 예측
 ``nnet-ts 라이브러리``에서 제공하는 신경망은 일변량 시걔열데이터 예측에특화된 라이브러리 입니다. 하지만 **파이썬 3버전**으로 넘어오면서 해당 라이브러리를 만든 분이 업데이트를 시켜지 않아 **소스코드를 변경하여서 라이브러리를 동작**시켜야합니다. 
 
 방법은 [stackoverflow Q&A 답변](https://stackoverflow.com/questions/44673380/using-the-timeseriesnnet-method-from-the-nnet-ts-module-throws-nameerror) 을 참고하길 바랍니다.
