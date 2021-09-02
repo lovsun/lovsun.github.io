@@ -8,10 +8,10 @@ published: true
 
 ### 데이터종류
 시계열데이터에 대해 알아보기에 앞서, 데이터의 종류부터 살펴보겠습니다.
-- **횡단면데이터(Cross Sectional data)** : 고정된 시점(t), 다양한 자산(multiple assets)에 대한 데이터 (예, 오늘 수집된 S&P600 종목들의 일별종가와 EPS 데이터) 
-- **시계열데이터(Time Series data)** : 일정기간(multiple time intervals), 단일 자산(single individual)에 대한 데이터( 예, 10년동안 수집된 삼성전자의 종가 데이터) 
-- **패널데이터(Panel data)** : 일정기간(multiple time intervals), 복수개체(multiple individuals)의 다양한 속성(multidimensional)에 대한 데이터 (예, 10년동안 수집된 S&P500 종목의 일별종가와 EPS 데이터) = cross sectional + time series
-- **다변량시계열(Multivariate Time Series data)** : 일정기간(multiple time intervals), 복수개체(multiple individuals)의 공통된 단일 속성(one-dimensional)에 대한 데이터 (예, 10년동안 수집된 S&P500 종목의 일별 종가)
+- **횡단면데이터(Cross Sectional data)** : 고정된 시점(t), 여러 자산(multiple assets)에 대한 데이터 (예, 오늘 수집된 S&P600 종목들의 일별종가와 EPS 데이터) 
+- **시계열데이터(Time Series data)** : 일정기간(multiple time intervals), 단일 자산(one asset)에 대한 데이터( 예, 10년동안 수집된 삼성전자의 종가 데이터) 
+- **패널데이터(Panel data)** : 일정기간(multiple time intervals), 여러 자산(multiple assets)의 다양한 속성(multidimensional)에 대한 데이터 (예, 10년동안 수집된 S&P500 종목의 일별종가와 EPS 데이터) = cross sectional + time series, x -> y (casuality)
+- **다변량시계열(Multivariate Time Series data)** : 일정기간(multiple time intervals), 여러 자산(multiple assets)의 공통된 단일 속성(one-dimensional)에 대한 데이터 (예, 10년동안 수집된 S&P500 종목의 일별 종가), x <-> y (casuality)
 
 
 ## 구조모형(Structural Model)
